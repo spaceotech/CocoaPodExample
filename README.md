@@ -14,5 +14,4 @@ You’re looking for solutions but found none? Or may be the solutions you found
 
 It usually happens with almost every beginners.
 
-I was facing the same trouble as you, when I was working on a project at Space-O Technologies and luckily, I found the ideal solution (Cocoapods). You see working at such a great [mobile app development company](http://www.spaceotechnologies.com/mobile-app-development/
-) has its own perks. I had a great support of highly experienced developers here and taught me the best solution for this project. So, I wrote [an article](https://www.spaceotechnologies.com/cocoapods-swift-tutorial/) on it to share it with you guys here.
+We were facing the same trouble as you, when we worked on a project and luckily, we found the ideal solution (Cocoapods). Here, we have written [an article](https://www.spaceotechnologies.com/cocoapods-swift-tutorial/) on it to share it with you guys.
